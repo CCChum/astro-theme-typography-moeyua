@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'Sapere aude',
     author: 'Chum Yin',
     description: '感謝我們相遇，在宇宙偏遠一隅。',
-    website: 'https://astro-theme-typography-moeyua-git-main-ccchums-projects.vercel.app/',
+    website: 'astro-theme-typography-moeyua-beta.vercel.app',
     pageSize: 5,
     socialLinks: [
       {
